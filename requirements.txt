@@ -1,0 +1,30 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+pillow
+scikit-learn
+
+# Deep Learning
+torch
+torchvision
+
+# Federated Learning
+flwr[simulation]
+
+# Explainable AI
+grad-cam
+captum
+
+# Privacy (optional - differential privacy)
+opacus
+
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Utils
+tqdm

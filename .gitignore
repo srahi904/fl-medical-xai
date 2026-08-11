@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Data & models (too large for git)
+data/*
+!data/.gitkeep
+saved_models/*.pth
+saved_models/*.pt
+results/*.png
+!saved_models/.gitkeep
+!results/.gitkeep
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Env
+.env
